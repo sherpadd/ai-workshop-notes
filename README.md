@@ -14,5 +14,5 @@ OpenAI key
 This is a secret key that provides OpenAI platform API access
 
 ```
-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
+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
 ```
