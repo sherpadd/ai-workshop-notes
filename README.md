@@ -8,7 +8,6 @@ Cursor
 
 Cursor is downloaded from [https://cursor.com/](https://www.cursor.com/)
 
-
 OpenAI key
 ----------
 
